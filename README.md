@@ -1,17 +1,7 @@
 # flutter_homework1
 
-A new Flutter project.
+A simple Flutter profile and settings screen built with Material widgets. The layout includes a profile card, activity statistics, shortcut icons, and a list of settings.
 
-## Getting Started
+## Picture of the final layout
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![homework Screenshot](images/layout_pictuer.png)
